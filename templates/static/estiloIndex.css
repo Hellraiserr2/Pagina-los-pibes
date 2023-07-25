@@ -1,0 +1,15 @@
+#boton{
+    display: flex;
+    width: 800px;
+    height: 800px;
+    align-items: center;
+    padding-left: 800px;
+    padding-right: 800px;
+}
+.header.links li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+header{
+    color: aqua;
+}
